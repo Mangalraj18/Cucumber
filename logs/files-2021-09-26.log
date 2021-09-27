@@ -1,0 +1,6 @@
+20:45:19.014 [main] INFO  com.mindtree.runner.TestRunner - Checkout is clicked successfully
+20:45:21.278 [main] INFO  com.mindtree.runner.TestRunner - save and continue is clicked successfully
+20:45:30.166 [main] INFO  com.mindtree.runner.TestRunner - Place order is clicked successfully
+20:45:30.236 [main] INFO  com.mindtree.runner.TestRunner - Payment page has showed
+20:45:54.677 [main] INFO  com.mindtree.runner.TestRunner - Login successfully
+20:45:56.462 [main] INFO  com.mindtree.runner.TestRunner - User stories clicked successfully

@@ -1,0 +1,51 @@
+20:45:56.564 [main] INFO  com.mindtree.runner.TestRunner - a + count inuser stories 
+20:46:20.208 [main] INFO  com.mindtree.runner.TestRunner - Login successfully
+20:46:23.696 [main] INFO  com.mindtree.runner.TestRunner - Message is verified
+20:46:44.989 [main] INFO  com.mindtree.runner.TestRunner - Login successfully
+10:31:38.625 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:32:39.837 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:33:17.098 [main] INFO  com.mindtree.pageOfObjects.Homepage - Product searched successfully
+10:33:17.928 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Product finded and clicked successfully
+10:34:07.310 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Product is added to cart successfully
+10:34:07.572 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Product is displayed successfully
+10:34:08.562 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Product Successfully added to cart
+10:34:55.591 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:35:33.936 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Price is low to high successfully is clicked
+10:35:33.937 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Product successfully filtered
+10:36:22.220 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:36:31.249 [main] INFO  com.mindtree.pageOfObjects.Homepage - Product searched successfully
+10:36:35.837 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Product finded and clicked successfully
+10:36:51.354 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Product is in move_to__addtocart_page clicked
+10:36:56.702 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Homepage is clicked successfully
+10:36:57.743 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Grabbed the price of product and returned to homepage
+10:37:44.231 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:37:53.282 [main] INFO  com.mindtree.pageOfObjects.Homepage - Stores clicked successfully
+10:38:16.740 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Mumbai offline store is clicked successfully
+10:38:17.174 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - view_on_google_maps is clicked successfully
+10:39:20.684 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Google map title is valid successfully
+10:39:20.723 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Google location has showed for particular location
+10:40:08.991 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:40:29.205 [main] INFO  com.mindtree.pageOfObjects.Homepage - Product searched successfully
+10:40:29.492 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Product finded and clicked successfully
+10:41:06.125 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Add to cart is clicked successfully
+10:41:06.338 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Checkout is clicked successfully
+10:42:11.458 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - save and continue is clicked successfully
+10:42:11.747 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Place order is clicked successfully
+10:42:11.822 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Payment page has showed
+10:43:21.130 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:43:37.385 [main] INFO  com.mindtree.pageOfObjects.Homepage - User stories clicked successfully
+10:43:37.496 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - a + count inuser stories 
+10:44:21.684 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:44:32.245 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Message is verified
+10:45:09.512 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:45:40.375 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Produt added to wishlist
+10:46:27.238 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+10:47:23.297 [main] INFO  com.mindtree.pageOfObjects.Homepage - Stores clicked successfully
+10:48:05.160 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Appstore is clicked
+10:48:45.903 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - Andriod app is clicked
+10:48:46.998 [main] INFO  com.mindtree.stepDefinition.stepdefinition - Andriod app is clicked
+13:01:02.666 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+13:01:37.278 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+13:01:40.570 [main] INFO  com.mindtree.pageOfObjects.Homepage - Product searched successfully
+13:02:08.909 [main] INFO  com.mindtree.pageOfObjects.Homepage - Login successfully
+13:02:17.073 [main] INFO  com.mindtree.pageOfObjects.List_of_products_page - price range is clicked successfully

@@ -1,0 +1,6 @@
+22:57:56.172 [main] INFO  com.mindtree.runner.TestRunner - Login successfully
+22:58:37.630 [main] INFO  com.mindtree.runner.TestRunner - Login successfully
+22:58:52.014 [main] INFO  com.mindtree.runner.TestRunner - Stores clicked successfully
+22:58:57.019 [main] INFO  com.mindtree.runner.TestRunner - Mumbai offline store is clicked successfully
+22:58:57.202 [main] INFO  com.mindtree.runner.TestRunner - view_on_google_maps is clicked successfully
+22:59:25.287 [main] INFO  com.mindtree.runner.TestRunner - Google map title is valid successfully
